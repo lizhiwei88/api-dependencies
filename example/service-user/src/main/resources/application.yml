@@ -1,0 +1,5 @@
+server:
+  port: 9882
+spring:
+  application:
+    name: example-service-user

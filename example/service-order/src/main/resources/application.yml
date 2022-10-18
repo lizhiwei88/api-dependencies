@@ -1,0 +1,5 @@
+server:
+  port: 9881
+spring:
+  application:
+    name: example-service-order
